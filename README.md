@@ -1,6 +1,9 @@
 # 100skill
 eaco 100 skills to test for earth ai agent world, eaco skill group labs
 
+<img width="1024" height="1536" alt="eaco ai agent 202603 image" src="https://github.com/user-attachments/assets/2896acda-74b0-491b-8274-ac8ddbb3e57d" />
+
+
 <img width="1024" height="1536" alt="eaco gongyi2026 image" src="https://github.com/user-attachments/assets/4fb6cf7c-5cea-4866-b9e7-fd8c3d441558" />
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/eb1def87-124e-4c87-93cb-df34e61ff5b3" />
