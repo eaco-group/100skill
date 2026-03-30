@@ -51,5 +51,5 @@ https://orbmarkets.io/token/DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH
 
 https://eaco-skills.base44.app/skills100
 
-
+EACO(Earth's Best Coin)
 
